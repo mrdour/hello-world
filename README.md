@@ -1,2 +1,2 @@
 # Hello World
-**A simple hello world expriment**
+**A simple hello world experiment**
